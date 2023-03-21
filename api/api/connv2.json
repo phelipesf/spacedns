@@ -1,0 +1,14 @@
+{
+    "tag": "connv2",
+    "success": "0",
+    "api_ver": "1.0v",
+    "message": "Example Message",
+    "msgid": "1646",
+    "msg_status": "ACTIVE",
+    "msg_expire": "2020-10-17 01:00:59",
+    "announcement": "",
+    "ann_status": "INACTIVE",
+    "ann_expire": "",
+    "ann_interval": "",
+    "ann_disappear": ""
+}
